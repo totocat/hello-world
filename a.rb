@@ -6,4 +6,5 @@ v3
 Edward NB v3
 Edward PC v4
 Edward NB v5
-Edward PC v6 (ed-branch)
+Edward PC v6 (ed-branch)
+Edward PC v6.2 (ed-branch)
