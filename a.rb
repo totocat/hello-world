@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 v2 - branch pr-1138 v2 
 
@@ -12,4 +12,7 @@ Edward PC v6.1
 Edward PC v7 (merged with ed-branch)
 Edward NB v8
 Edward PC a.rb v9
+
+Edward PC a.rb v10 (branch)
 Edward NB a.rb v10
+Edward PC a.rb v11 (solved conflict)
