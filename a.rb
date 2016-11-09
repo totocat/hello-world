@@ -1,4 +1,6 @@
-
+[Hello World Master]
+This is a conflicting file. (Here, I am "hello-world-master")
+20161109 **Edward**, both "hello-world" and "hello-world-master" will update this file. 
 
 v2 - branch pr-1138 v2 
 
